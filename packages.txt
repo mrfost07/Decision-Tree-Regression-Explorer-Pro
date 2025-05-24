@@ -1,3 +1,5 @@
 graphviz
 python3-dev
-build-essential 
+build-essential
+python3-setuptools
+python3-pip 
