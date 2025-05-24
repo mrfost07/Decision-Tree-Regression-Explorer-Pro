@@ -30,7 +30,7 @@ A professional-grade tool for interactive decision tree analysis and prediction,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/decision-tree-explorer.git
+git clone https://github.com/mrfost07/Decision-Tree-Regression-Explorer-Pro.git
 cd decision-tree-explorer
 ```
 
